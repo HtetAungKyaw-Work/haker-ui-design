@@ -24,7 +24,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="300dp"
-                android:src="@drawable/diving"
+                android:src="@drawable/alligator_gar"
                 android:scaleType="fitXY"/>
 
             <ImageView
